@@ -1,0 +1,1 @@
+Đây là một chuỗi dữ liệu để ghi vào tệp.
